@@ -38,7 +38,7 @@ This project is a fully interactive **Power BI dashboard template** built to pro
 
 ## 🖼️ Dashboard Preview
 
-> ![Dashboard Preview](
+> [Dashboard Preview](https://github.com/shravanijoshi14/Hospitality-Bi-Dashboard/blob/main/Hospitality_Bi_Dashboard.png)
 
 
 
